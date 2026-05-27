@@ -1,2 +1,4 @@
-# CesiumOS
-A simple modular kernel for other Operational Systems
+# What is CesiumOS?
+CesiumOS is a simple modular base-kernel made in 8086 Assembly for other Operational Systems.
+
+If you want to use CesiumOS kernel, give my credits
